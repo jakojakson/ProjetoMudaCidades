@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ribeirinho</title>
+    <link rel="stylesheet" href="Doacao.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap" rel="stylesheet">
+</head>
+<body>
+ 
+    <nav class="menu">
+           <ul>
+                <li><a class="active" href="#Home">Home</a></li>
+                <li><a href="#Curso">Curso</a></li>
+                <li><a href="#Doação">Doação</a></li>
+            </ul>
+    </nav>
+    <section>
+        <div>
+            <h1 id= "titulo">Faça sua Doação</h1>
+            <p id ="subtitulo">Complete suas informações</p>
+        </div>
+            <form action="" class="box">
+                <fieldset>
+                    <div class="content">
+                        <label for="ValorDonate"><strong>Doação (R$)</strong></label>
+                        <input type="number" name="ValorDonate" id="ValorDonate" placeholder="Valor" required>
+                    </div>
+                    
+                    <div>
+                        <h3 id="titulo">Periodicidade</h3>
+                        <label for="unicavez">Uma única vez</label>
+                        <input type="radio" name="periodicidade" id="uni" value="unicavez"checked>
+                        <label for="mensal">Mensalmente</label>
+                        <input type="radio" name="periodicidade" id="mensal" value="mensal">
+                        
+                    </div>
+                    
+                    <div class="content"><br>
+                        <label for="email"><strong>Informe seu endereço de E-mail:</strong></label>
+                        <input type="email" name="email" id="email" placeholder="E-mail" required>
+                        
+                    </div>
+                </fieldset>
+                    <div class="content2">
+                        <h1 id="titulo">Preencha seus Dados</h1>
+                        <label for="nome"><strong>Nome: </strong></label>
+                        <input type="text" name="nome" id="nome" placeholder="Nome Completo" required>
+                        <label for="birthday"><strong>Data de Nascimento: </strong></label>
+                        <input type="number" name="birthday" id="birthday"placeholder="Data de Nascimento" required>
+                        <label for="tel"><strong>Telefone: </strong></label>
+                        <input type="number" name="telephone" id="telephone" placeholder="Telefone" required>
+                        <label for="Cpf"><strong>CPF: </strong></label>
+                        <input type="number" name="cpf" id="cpf" placeholder="CPF" required>
+                        <input class="botao" type="button" value="Confirmar Doação">
+                    </div>
+
+
+                   
+
+            </form>
+    </section>
+    <footer>
+        <p>&copy; Time 154</p>
+    </footer>
+    
+</body>
+</html>
