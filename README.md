@@ -5,7 +5,7 @@ descricao
 ## Tecnologia usada
 descricao
 
-## autores
+## Autores
 - Matheus: matias26
 - Jakson: lohanjlb
 - Wallysson: wallysson36
