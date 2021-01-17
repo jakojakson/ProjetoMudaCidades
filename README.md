@@ -7,7 +7,7 @@
 O site tem objetivo de inclusão para os jovens, onde através de participações ele irá obter pontuação e podendo resgatar cursos gratuitos desenvolvido por nós mesmo,
 com isso os apoiadores, voluntários e alunos irão ganhar pela participação do projeto,  além de nos ajudar vai evoluir cidades pequenas evitando das pessoas sairem dela
 para ir atrás de recursos em cidades grandes e podendo solicitar o projeto em sua cidade.
-[Site: Muda Cidades](https://matiash26.github.io/home/home.html)
+- [Site: Muda Cidades](https://matiash26.github.io/home/home.html)
 ## Tecnologia usada
 HTML 5 e CSS
 
