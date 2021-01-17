@@ -4,10 +4,9 @@
  - Incentivo a educação com o foco em tecnologia, empreendedorismo e responsabilidade social
 
 ## Como vai funcionar
-Nosso site irá funcionar com sistema de pontuação onde os Doadores, voluntário e alunos irão ganhar pontos.
-com isso as pessoas irão poder ter acesso a cursos gratuitos desenvolvido por nós mesmo e obtendo tecnologia
-em cidades que são tão escassas
-
+O site tem objetivo de inclusão para os jovens, onde através de participações que irá ganhar pontuação e podendo resgatar cursos gratuito desenvolvido por nós mesmo,
+com isso os apoiadores, voluntários e alunos irão ganhar pela participação do projeto,  além de nos ajudar vai evoluir as cidades com poucos conhecimento de tecnologia
+e ajudando na Mata Ciliar
 ## Tecnologia usada
 HTML 5 e CSS
 
