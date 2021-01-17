@@ -4,9 +4,9 @@
  - Incentivo a educação com o foco em tecnologia, empreendedorismo e responsabilidade social
 
 ## Como vai funcionar
-O site tem objetivo de inclusão para os jovens, onde através de participações que irá ganhar pontuação e podendo resgatar cursos gratuito desenvolvido por nós mesmo,
+O site tem objetivo de inclusão para os jovens, onde através de participações ele irá obter pontuação e podendo resgatar cursos gratuitos desenvolvido por nós mesmo,
 com isso os apoiadores, voluntários e alunos irão ganhar pela participação do projeto,  além de nos ajudar vai evoluir cidades pequenas evitando das pessoas sairem dela
-para ir atrás de recursos.
+para ir atrás de recursos em cidades grandes e podendo solicitar o projeto em sua cidade.
 ## Tecnologia usada
 HTML 5 e CSS
 
