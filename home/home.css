@@ -1,0 +1,88 @@
+body{
+    margin: 0px;;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-image: url("planta.jpg");
+    background-size: cover;
+
+    
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 16px;
+    overflow: hidden;
+    background-color:  rgb(36, 30, 31);
+    text-align: center;
+   
+}
+li{
+    display: inline;
+    
+}
+li a{
+    color:rgb(221, 217, 217);
+    text-decoration: none;
+    padding: 17px 30px;
+    font-family: 'Yusei Magic', sans-serif;
+    text-align: center;
+    
+   
+    
+}
+li a:hover{
+    background: rgb(221, 217, 217);
+    color: rgb(36, 30, 31);
+}
+
+
+
+section h1{
+    font-family: 'Yusei Magic', sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+
+}
+.content_section{
+    font-family: 'Yusei Magic', sans-serif;
+    font-size: 20px;
+}
+
+article{
+    background: rgba(253, 253, 253, 0.897);
+    border-radius: 5px;
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+    opacity: 75%;
+    height: 70vh;
+}
+
+
+.content_footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.imagem img{
+    background-repeat: no-repeat;
+    width: 100%;
+
+    
+   
+
+}
+footer{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.897) ;
+    background-color: rgb(46, 39, 40);
+    position: relative;
+    font-family: 'Yusei Magic', sans-serif;
+    bottom: 0px;
+    padding: 5px;
+    height:205px;
+    margin-top: 158px;
+} 
