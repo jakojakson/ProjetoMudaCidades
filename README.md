@@ -5,8 +5,8 @@
 
 ## Como vai funcionar
 O site tem objetivo de inclusão para os jovens, onde através de participações que irá ganhar pontuação e podendo resgatar cursos gratuito desenvolvido por nós mesmo,
-com isso os apoiadores, voluntários e alunos irão ganhar pela participação do projeto,  além de nos ajudar vai evoluir as cidades com poucos conhecimento de tecnologia
-e ajudando na Mata Ciliar
+com isso os apoiadores, voluntários e alunos irão ganhar pela participação do projeto,  além de nos ajudar vai evoluir cidades pequenas evitando das pessoas sairem dela
+para conseguir atráves de recursos.
 ## Tecnologia usada
 HTML 5 e CSS
 
