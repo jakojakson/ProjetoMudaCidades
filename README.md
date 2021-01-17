@@ -4,6 +4,9 @@
  - Incentivo a educação com o foco em tecnologia, empreendedorismo e responsabilidade social
 
 ## Como vai funcionar
+Nosso site irá funcionar com sistema de pontuação onde os Doadores, voluntário e alunos irão ganhar pontos.
+com isso as pessoas irão poder ter acesso a cursos gratuitos desenvolvido por nós mesmo e obtendo tecnologia
+em cidades que são tão escassas
 
 ## Tecnologia usada
 HTML 5 e CSS
